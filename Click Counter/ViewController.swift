@@ -17,8 +17,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        
-        
+
         //Label - 1
         let label = UILabel()
         label.frame = CGRectMake(150, 200, 60, 60)
